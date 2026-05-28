@@ -1,0 +1,32 @@
+aid: host-t-com
+name: host-t.com
+description: "Basic DNS query via HTTP GET request"
+url: https://host-t.com
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Development"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Development
+  - Public APIs
+apis:
+  - name: host-t.com
+    description: "Basic DNS query via HTTP GET request"
+    humanURL: https://host-t.com
+    baseURL: https://host-t.com
+    tags:
+      - Development
+    properties:
+      - type: Documentation
+        url: https://host-t.com
+common:
+  - type: Website
+    url: https://host-t.com
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
