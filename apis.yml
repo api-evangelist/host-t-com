@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://host-t.com
 common:
+  - type: DomainSecurity
+    url: security/host-t-com-domain-security.yml
   - type: Website
     url: https://host-t.com
   - type: PublicAPIsListing
