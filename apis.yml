@@ -21,6 +21,8 @@ accessModel:
   source: []
   generated: '2026-07-22'
   method: derived
+  source:
+  - {url: 'https://host-t.com', status: 301, note: 'declared website redirects to https://dnsviahttp.com/ — a different registrable domain (host-t.com -> dnsviahttp.com), possible rename or acquisition (probed 2026-09-03, roadmap#169)'}
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/host-t-com.png
 name: host-t.com
 description: "Basic DNS query via HTTP GET request"
