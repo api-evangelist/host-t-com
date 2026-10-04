@@ -41,7 +41,6 @@ apis:
   - name: host-t.com
     description: "Basic DNS query via HTTP GET request"
     humanURL: https://host-t.com
-    baseURL: https://host-t.com
     tags:
       - Development
     properties:
